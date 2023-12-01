@@ -28,6 +28,7 @@ This repository contains Python code for training reinforcement learning agents 
 <ul>
   <li>train_rl_agent.py: Main script for training agents.</li>
   <li>README.md: Documentation.</li>
+  <li>rl_control.yml: Dependencies</li>
 </ul>
 
 Feel free to customize the README further based on your specific repository structure, additional information, or any other details you want to highlight.

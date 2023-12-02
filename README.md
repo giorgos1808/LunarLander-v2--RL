@@ -5,7 +5,11 @@ This repository contains Python code for training reinforcement learning agents 
 <ol>
   <li>Dependencies:</li>
   <ul>
-    <li>Ensure you have the necessary dependencies installed. You can install them using: pip install gym numpy tensorflow rl</li>
+    <li>Ensure you have the necessary dependencies installed. You can install them using:</li> 
+    
+   ```bash
+    pip install gym numpy tensorflow rl
+   ```
   </ul>
 
   <li>Run the Code:</li>
